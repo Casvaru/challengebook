@@ -9,7 +9,7 @@ function App () {
       <section className='px-7'>
         <h2 className='font-semibold'>Febrero | UI Tailwindcss</h2>
         <ol>
-          <li className='px-3'><a className='hover:underline' href="">↪027-MusicPlayer</a></li>
+          <li className='px-3'><a className='hover:underline' href="../pages/february-ui-tailwind/027-musicplayer/dist/index.html">↪027-MusicPlayer</a></li>
         </ol>
       </section>
     </div>
